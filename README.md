@@ -5,6 +5,7 @@
 - Usage of 4 Design Patterns: Singleton, Factory Method, Observer and Command
 - Creating a smart recommendation system for a streaming app which can store music, podcasts, audiobooks for each user
 - Using CSV files for input using [OpenCSV](https://mvnrepository.com/artifact/com.opencsv/opencsv/5.7.1)
+- Getting accustomed to Maven
 
 ## Classes:
 - Streamers - contains data about the authors of the streams from the streamers.csv file (streamerType, id, name)
